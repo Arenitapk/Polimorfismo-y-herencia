@@ -1,0 +1,14 @@
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\bin\Debug\net10.0\Polimorfismo y herencia.exe
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\bin\Debug\net10.0\Polimorfismo y herencia.deps.json
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\bin\Debug\net10.0\Polimorfismo y herencia.runtimeconfig.json
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\bin\Debug\net10.0\Polimorfismo y herencia.dll
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\bin\Debug\net10.0\Polimorfismo y herencia.pdb
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\Polimorfismo y herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\Polimorfismo y herencia.AssemblyInfoInputs.cache
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\Polimorfismo y herencia.AssemblyInfo.cs
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\Polimorfismo y herencia.csproj.CoreCompileInputs.cache
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\Polimorfismo y herencia.dll
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\refint\Polimorfismo y herencia.dll
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\Polimorfismo y herencia.pdb
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\Polimorfismo y herencia.genruntimeconfig.cache
+C:\Users\kin99\Desktop\Documentos Sena\BACK-END SERGIO\Polimorfismo y herencia\obj\Debug\net10.0\ref\Polimorfismo y herencia.dll
